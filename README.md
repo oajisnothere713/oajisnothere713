@@ -67,7 +67,7 @@ I built a graphical password authentication system that achieves zero plaintext 
 ---
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=oajisnothere713&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=oajisnothere713&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
