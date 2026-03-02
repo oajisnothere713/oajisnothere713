@@ -66,6 +66,11 @@ I built a graphical password authentication system that achieves zero plaintext 
 
 ---
 
+## 🏅 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=oajisnothere713&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
 ## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oajisnothere713&theme=tokyo-night)
 
