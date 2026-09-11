@@ -10,15 +10,25 @@ Full-stack developer building secure, scalable web apps with the **MERN stack** 
 
 ## 🧰 Stack
 
-| | |
-|---|---|
-| **Languages** | Python · Go · JavaScript/TypeScript · Java · C++ |
-| **Frontend** | React · Next.js |
-| **Backend** | Node.js · Express · FastAPI · Spring *(learning)* |
-| **Data** | MongoDB · PostgreSQL · MySQL |
-| **AI/ML** | TensorFlow · PyTorch · LangChain |
-| **Cloud & DevOps** | AWS · Azure · Docker · Kubernetes · Vercel |
-| **Security** | JWT & RBAC auth · graphical password authentication (zero plaintext credential storage) |
+**Languages**
+<img src="https://skillicons.dev/icons?i=py,go,js,ts,java,cpp" />
+
+**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+
+**Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
+
+**Data**
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+**AI/ML**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+**Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,vercel" />
+
+**Security:** JWT & RBAC auth · graphical password authentication (zero plaintext credential storage)
 
 ## 🚀 Selected work
 
@@ -34,3 +44,5 @@ Full-stack developer building secure, scalable web apps with the **MERN stack** 
 [LinkedIn](https://in.linkedin.com/in/oaj-borwankar-83001a290) · [Email](mailto:borwankaroaj@gmail.com) · [GitHub](https://github.com/oajisnothere713)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oajisnothere713&theme=dark&hide_border=false&layout=compact)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oajisnothere713&theme=tokyo-night)
