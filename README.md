@@ -45,4 +45,4 @@ Full-stack developer building secure, scalable web apps with the **MERN stack** 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oajisnothere713&theme=dark&hide_border=false&layout=compact)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oajisnothere713&theme=tokyo-night)
+![Activity Graph](https://raw.githubusercontent.com/oajisnothere713/oajisnothere713/output/activity-graph.svg)
